@@ -1,10 +1,10 @@
 ### October 8, 2020
 Include the date you created this project and README file.
 
-### Project Title
+### Git Commands Documentation
 Replace the Project Title
 
-### Description
+### This is work associated with Udacity's introduction to git and git hub.
 Describe what your project is about and what it does
 
 ### Files used
