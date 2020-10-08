@@ -7,7 +7,7 @@ Replace the Project Title
 ### This is work associated with Udacity's introduction to git and git hub.
 Describe what your project is about and what it does
 
-### Files
+### CS_try1.pynb, .gitignore, README
 Include the files used
 
 ### Credits
